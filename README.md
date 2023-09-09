@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Python project <br>🤝 I’m looking for help with finding simple projects to better learn to code<br>🌱 I’m currently learning Python, C and C++<br>💬 Ask me about sports, biology, computational models, history of computers<br>⚡ Fun fact: I write!
+🔭 I’m currently working on a Python project <br>🤝 I’m looking for help with finding simple projects to better learn to code<br>🌱 I’m currently learning Python, C and C++<br>💬 Ask me about sports, biology, computational models, history of computers and space <br>⚡ Fun fact: I write!
 
 
 ## 🌐 Socials:
